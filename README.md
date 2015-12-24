@@ -122,7 +122,6 @@ var schema = pintpack.schema(
   }
 );
 
-```
 The values would be (shown is spaced hexadecimal):
 +------------------------+-----+--------+------------+
 | 61 62 63 64 65 66 67 68 00 00 62 61 72 07 5b cd 15 |
