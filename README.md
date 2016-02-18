@@ -91,7 +91,7 @@ The protocol consists of having a separate schema defining the keys and a separa
 holding the values. The values object is encoded and decoded using the same schema - a id is 
 assigned to both the schema and values. 
 
-_The PintPack Protocol is designed for implemented in any programing language._
+_The PintPack Protocol is designed for implementation in any programing language._
 
 ### Schema
 
